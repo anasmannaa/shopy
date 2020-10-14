@@ -1,3 +1,9 @@
+# Shopy
+
+An implementation of the vidly store app by [codewithmosh's](https://codewithmosh.com/) react bootcamp.
+
+![alt text](https://live.staticflickr.com/65535/50480107758_88b2bd0f6c_b.jpg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
